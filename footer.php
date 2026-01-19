@@ -37,12 +37,14 @@
                     </div>
                     <div class="col-sm-4 col-md-4">
                         <ul class="f-info-icon">
-                            <li><span class="icon-map-marker"></span> Address: 211, P. N. Kothari Industrial Estate, <br>
+                            <li><a href="https://www.google.com/maps/place/Prolink+Computers+Pvt+Ltd/@19.1582851,72.9391806,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7b86e528cb077:0x1569e823178bd286!8m2!3d19.1582851!4d72.9391806!16s%2Fg%2F11c5q8qg8q" target="_blank"><span class="icon-map-marker"></span> <span class="footer-hover-green">Address: 211, P. N. Kothari Industrial Estate, <br>
                                 L. B. S. Marg, Bhandup (West), <br>
-                                Mumbai – 400 078.</li>
+                                Mumbai – 400 078.</span></a></li>
                             <li><a href="tel:+918657460657"><span class="icon-telephone"></span> Phone: +91 8657460657</a>
                             </li>
-                            <li>Email: info@prolink.co.in
+                            <li><a href="tel:+912247500947"><span class="icon-telephone"></span> Phone: +91 22 4750 0947</a>
+                            </li>
+                                <li><a href="mailto:info@prolink.co.in"><svg style="width: 20px; height: 20px; fill: #22c55e; display: inline-block; position: relative; top: 4px; left: -28px;" viewBox="0 0 24 24"><path d="M20,8L12,13L4,8V6L12,11L20,6M20,4H4C2.89,4 2,4.89 2,6V18A2,2 0 0,0 4,20H20A2,2 0 0,0 22,18V6C22,4.89 21.1,4 20,4Z" /></svg><span style="margin-left: -19px;">Email: info@prolink.co.in</span></a>
                             </li>
                         </ul>
                     </div>

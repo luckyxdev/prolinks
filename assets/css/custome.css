@@ -364,3 +364,13 @@ a.tt-obj__btn.cart-contents {
     background-color: #ffffff !important;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1) !important;
 }
+
+/* Footer hover effects */
+.footer-hover-green {
+    transition: color 0.3s ease;
+}
+
+.footer-hover-green:hover {
+    color: #28a745 !important;
+    cursor: pointer;
+}
